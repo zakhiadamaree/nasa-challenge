@@ -6,4 +6,6 @@
 //  Copyright © 2021 Zakhia Damaree. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+let titleColor = UIColor(named: "TitleColor")

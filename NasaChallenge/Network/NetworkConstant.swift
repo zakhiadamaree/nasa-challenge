@@ -9,7 +9,3 @@
 import Foundation
 
 let nasaListUrl = "https://images-api.nasa.gov/search?q=%22%22"
-
-let userUrl = "https://jsonplaceholder.typicode.com/users"
-let invalidUrl = "https://example.com/users"
-let invalidData = "https://jsonplaceholder.typicode.com/todos"
